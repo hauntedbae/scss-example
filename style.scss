@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(239, 239, 239);
+    color: #080f1a;
+}
+
+.prising {
+    display: flex;
+    margin: 20px;
+}
+
+.price {
+    font-weight: 500;
+    font-size: 28px;
+    background-color: #f4f6fc;
+    border-radius: 10px;
+}
+
+.container {
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.border {
+    border-right: 1px solid grey;
+}
+
+.container ul {
+    padding: 0 0 0 20px;
+    margin: 0;
+    list-style: none;
+}
+
+.container ul li {
+    padding: 0;
+    margin: 0;
+}
+
+span {
+    font-size: 12px;
+    padding: 0;
+    color: #73829e;
+}
+
+button {
+    padding: 8px 36px;
+    border-color: #303ca5;
+    border-radius: 5px;
+    color:#303ca5;
+    background-color: white;
+}
